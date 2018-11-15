@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy');
+
+body{
+    font-family: 'Sorts Mill Goudy', serif;
+
+}
+h3.judul::after{
+    content:" ";
+    display: block;
+    width: 60%;
+    height: 3px;
+    background-color:grey; 
+}
+a {
+    color: Black;
+    text-decoration: none;
+    background-color: transparent;
+}
+.imgf{
+    padding-left: 79px;
+    
+}
+.img1{
+    padding-left: 66px;
+    padding-bottom: 6px;
+}
+.img2{
+    padding-left: 66px;
+    padding-bottom: 13px;
+}
+.img3{
+    padding-left: 66px;
+    padding-bottom: 6px;
+}
+.img4{
+    padding-left: 66px;
+    padding-bottom: 6px;
+}
